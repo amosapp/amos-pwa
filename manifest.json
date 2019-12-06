@@ -26,7 +26,7 @@
       "url": "url"
     }
   },
-  "start_url": ".",
+  "start_url": "https://amosapp.github.io/amos-pwa",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
