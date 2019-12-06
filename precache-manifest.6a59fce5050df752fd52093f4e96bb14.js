@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59b022d99caf27504762c07c44b19d48",
+    "revision": "5069409b859f1313a17cdb14e49944aa",
     "url": "/amos-pwa/index.html"
   },
   {
