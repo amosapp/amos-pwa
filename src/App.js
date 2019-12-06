@@ -1,6 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
 const App = (props) => {
   const [text, setText] = React.useState (``)
@@ -18,6 +16,7 @@ const App = (props) => {
     <div className="App">
       <p>You typed: {text}</p>
       <input onChange={handleChange}></input>
+      <p>Hi</p>
     </div>
   );
 }
