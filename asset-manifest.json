@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/amos-pwa/static/css/main.d1b05096.chunk.css",
-    "main.js": "/amos-pwa/static/js/main.0dd6e5a4.chunk.js",
-    "main.js.map": "/amos-pwa/static/js/main.0dd6e5a4.chunk.js.map",
+    "main.js": "/amos-pwa/static/js/main.a6b8b801.chunk.js",
+    "main.js.map": "/amos-pwa/static/js/main.a6b8b801.chunk.js.map",
     "runtime-main.js": "/amos-pwa/static/js/runtime-main.57e2e3aa.js",
     "runtime-main.js.map": "/amos-pwa/static/js/runtime-main.57e2e3aa.js.map",
     "static/js/2.b85fdfae.chunk.js": "/amos-pwa/static/js/2.b85fdfae.chunk.js",
     "static/js/2.b85fdfae.chunk.js.map": "/amos-pwa/static/js/2.b85fdfae.chunk.js.map",
     "index.html": "/amos-pwa/index.html",
-    "precache-manifest.880f54070434bb8e03a72bc3a6a67b1c.js": "/amos-pwa/precache-manifest.880f54070434bb8e03a72bc3a6a67b1c.js",
+    "precache-manifest.9f93887083210ce2e408dcfad9b78c41.js": "/amos-pwa/precache-manifest.9f93887083210ce2e408dcfad9b78c41.js",
     "service-worker.js": "/amos-pwa/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/amos-pwa/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.b85fdfae.chunk.js.LICENSE": "/amos-pwa/static/js/2.b85fdfae.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.57e2e3aa.js",
     "static/js/2.b85fdfae.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.0dd6e5a4.chunk.js"
+    "static/js/main.a6b8b801.chunk.js"
   ]
 }

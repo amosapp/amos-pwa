@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c87066419831ac50e760c036794a2084",
+    "revision": "3792835c4cafea561a38f978d36c7205",
     "url": "/amos-pwa/index.html"
   },
   {
-    "revision": "1d6ebfa1d2b7247f351d",
+    "revision": "2cdce5d4d004304408c8",
     "url": "/amos-pwa/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amos-pwa/static/js/2.b85fdfae.chunk.js.LICENSE"
   },
   {
-    "revision": "1d6ebfa1d2b7247f351d",
-    "url": "/amos-pwa/static/js/main.0dd6e5a4.chunk.js"
+    "revision": "2cdce5d4d004304408c8",
+    "url": "/amos-pwa/static/js/main.a6b8b801.chunk.js"
   },
   {
     "revision": "73e8731c7830e4a4c679",
