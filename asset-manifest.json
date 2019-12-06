@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amos-pwa/static/css/main.d1b05096.chunk.css",
+    "main.js": "/amos-pwa/static/js/main.796be9b0.chunk.js",
+    "main.js.map": "/amos-pwa/static/js/main.796be9b0.chunk.js.map",
+    "runtime-main.js": "/amos-pwa/static/js/runtime-main.57e2e3aa.js",
+    "runtime-main.js.map": "/amos-pwa/static/js/runtime-main.57e2e3aa.js.map",
+    "static/js/2.329f94f5.chunk.js": "/amos-pwa/static/js/2.329f94f5.chunk.js",
+    "static/js/2.329f94f5.chunk.js.map": "/amos-pwa/static/js/2.329f94f5.chunk.js.map",
+    "index.html": "/amos-pwa/index.html",
+    "precache-manifest.e578c9db6cd51e71a7ac57ec9c4dd249.js": "/amos-pwa/precache-manifest.e578c9db6cd51e71a7ac57ec9c4dd249.js",
+    "service-worker.js": "/amos-pwa/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/amos-pwa/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.329f94f5.chunk.js.LICENSE": "/amos-pwa/static/js/2.329f94f5.chunk.js.LICENSE",
+    "static/media/logo.svg": "/amos-pwa/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57e2e3aa.js",
+    "static/js/2.329f94f5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.796be9b0.chunk.js"
+  ]
+}
