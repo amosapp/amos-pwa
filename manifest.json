@@ -19,7 +19,7 @@
     }
   ],
   "share_target": {
-    "action": "share",
+    "action": "/amos-pwa/share",
     "params": {
       "title": "title",
       "text": "text",
