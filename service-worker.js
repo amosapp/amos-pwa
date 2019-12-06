@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/amos-pwa/precache-manifest.9f93887083210ce2e408dcfad9b78c41.js"
+  "/amos-pwa/precache-manifest.10fa2a43eefb1a3b1399cfc076a9bc7c.js"
 );
 
 self.addEventListener('message', (event) => {
